@@ -87,4 +87,6 @@ Copy svg code and paste on html.
 
 |icon|name|corde|
 |---|---|---|
-|<img src="././utility/bell.svg" width="50px">|bell|<iframe width="560" height="315" src="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/icons/utility/bell.svg" frameborder="0" allowfullscreen></iframe>|
+|<img src="././utility/bell.svg" width="50px">|bell|<svg width="26" height="26" viewBox="0 0 26 26" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M20.622 17.4C17.689 17.4 19.668 8.102 15.56 5.616C14.994 5.273 14.999 4.888 15 4.2C15 3.1 13.9 2 12.8 2C11.7 2 10.6 3.1 10.6 4.2C10.601 4.888 10.606 5.273 10.039 5.616C5.932 8.102 7.911 17.4 4.978 17.4C4.438 17.4 4 17.892 4 18.5C4 19.107 4.438 19.6 4.978 19.6H20.622C21.162 19.6 21.6 19.107 21.6 18.5C21.6 17.892 21.162 17.4 20.622 17.4ZM13.9 4.2C13.9 4.808 13.408 5.3 12.8 5.3C12.192 5.3 11.7 4.808 11.7 4.2C11.7 3.592 12.192 3.1 12.8 3.1C13.408 3.1 13.9 3.592 13.9 4.2ZM9.5 20.7C10.6 20.7 15 20.7 16.1 20.7C16.1 22.523 14.623 24 12.8 24C10.977 24 9.5 22.523 9.5 20.7Z" fill="black"/>
+</svg>|
