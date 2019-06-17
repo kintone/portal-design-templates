@@ -81,3 +81,10 @@ Copy svg code and paste on html.
 |<img src="./animals/cat-black.svg" width="50px">|cat-black|
 |<img src="./animals/cat-white.svg" width="50px">|cat-white|
 |<img src="./animals/dog.svg" width="50px">|dog|
+
+
+### SVG-test
+
+|icon|name|corde|
+|---|---|---|
+|<img src="././utility/bell.svg" width="50px">|bell|<iframe width="560" height="315" src="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/icons/utility/bell.svg" frameborder="0" allowfullscreen></iframe>|
