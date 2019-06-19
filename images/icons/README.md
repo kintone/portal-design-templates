@@ -2,13 +2,14 @@
 
 Free Icons for kintone design portal.
 
-## Usage
-Copy svg code and paste on html.
+## How to use
+Click the SVG embedded icon name and your browser will open the SVG code and then copy the entire SVG code and paste them onto HTML.
+
 
 ## Category
 ### Utility
 
-|icon|code|
+|Icon|SVG code|
 |---|---|
 |<img src="././utility/bell.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/icons/utility/bell.svg">bell</a>|
 |<img src="././utility/calculator.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/icons/utility/calculator.svg">calculator</a>|
