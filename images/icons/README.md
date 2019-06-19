@@ -3,7 +3,7 @@
 Free Icons for kintone design portal.
 
 ## How to use
-Click the SVG embedded icon name and your browser will open the SVG code and then copy the entire SVG code and paste them onto HTML.
+Click the SVG embedded icon name and your browser will open the SVG code, and then copy the entire SVG code and paste them onto HTML.
 
 
 ## Category
