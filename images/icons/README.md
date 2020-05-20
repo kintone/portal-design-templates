@@ -31,7 +31,7 @@ Click the SVG embedded icon name and your browser will open the SVG code, and th
 |<img src="././covid-19/stayhome.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/icons/covid-19/stayhome.svg">stayhome</a>|
 |<img src="././covid-19/thermometer.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/icons/covid-19/thermometer.svg">thermometer</a>|
 |<img src="././covid-19/togo.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/icons/covid-19/togo.svg">togo</a>|
-|<img src="././covid-19/travel-restrictions.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/icons/images/covid-19/travel-restrictions.svg">travel-restrictions</a>|
+|<img src="././covid-19/travel-restrictions.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/icons/images/icons/covid-19/travel-restrictions.svg">travel-restrictions</a>|
 |<img src="././covid-19/virus1.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/icons/covid-19/virus1.svg">virus1</a>|
 |<img src="././covid-19/virus2.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/icons/covid-19/virus2.svg">virus2</a>|
 |<img src="././covid-19/watersupply.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/icons/covid-19/watersupply.svg">watersupply</a>|
