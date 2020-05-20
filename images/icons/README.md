@@ -11,30 +11,30 @@ Click the SVG embedded icon name and your browser will open the SVG code, and th
 
 |icon|name|
 |---|---|
-|<img src="././covid-19/alcoholspray.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/covid-19/alcoholspray.svg">alcoholspray</a>|
-|<img src="././covid-19/ambulance.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/covid-19/ambulance.svg">ambulance</a>|
-|<img src="././covid-19/bed.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/covid-19/bed.svg">bed</a>|
-|<img src="././covid-19/clean.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/covid-19/clean.svg">clean</a>|
-|<img src="././covid-19/cough.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/covid-19/cough.svg">cough</a>|
-|<img src="././covid-19/delivery.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/covid-19/delivery.svg">delivery</a>|
-|<img src="././covid-19/electronicmedicalrecord.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/covid-19/electronicmedicalrecord.svg">electronicmedicalrecord</a>|
-|<img src="././covid-19/gargling.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/covid-19/gargling.svg">gargling</a>|
-|<img src="././covid-19/handsanitizing.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/covid-19/handsanitizing.svg">handsanitizing</a>|
-|<img src="././covid-19/handwash.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/covid-19/handwash.svg">handwash</a>|
-|<img src="././covid-19/hospital.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/covid-19/hospital.svg">hospital<a>|
-|<img src="././covid-19/mask1.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/covid-19/mask1.svg">mask1</a>|
-|<img src="././covid-19/mask2.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/covid-19/mask2.svg">mask2</a>|
-|<img src="././covid-19/medicine.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/covid-19/medicine.svg">medicine</a>|
-|<img src="././covid-19/nurse.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/covid-19/nurse.svg">nurse</a>|
-|<img src="././covid-19/senior.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/covid-19/senior.svg">senior</a>|
-|<img src="././covid-19/socialdistance.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/covid-19/socialdistance.svg">socialdistance</a>|
-|<img src="././covid-19/stayhome.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/covid-19/stayhome.svg">stayhome</a>|
-|<img src="././covid-19/thermometer.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/covid-19/thermometer.svg">thermometer</a>|
-|<img src="././covid-19/togo.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/covid-19/togo.svg">togo</a>|
-|<img src="././covid-19/travel-restrictions.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/covid-19/travel-restrictions.svg">travel-restrictions</a>|
-|<img src="././covid-19/virus1.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/covid-19/virus1.svg">virus1</a>|
-|<img src="././covid-19/virus2.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/covid-19/virus2.svg">virus2</a>|
-|<img src="././covid-19/watersupply.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/covid-19/watersupply.svg">watersupply</a>|
+|<img src="././covid-19/alcoholspray.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/icons/covid-19/alcoholspray.svg">alcoholspray</a>|
+|<img src="././covid-19/ambulance.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/icons/covid-19/ambulance.svg">ambulance</a>|
+|<img src="././covid-19/bed.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/icons/covid-19/bed.svg">bed</a>|
+|<img src="././covid-19/clean.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/icons/covid-19/clean.svg">clean</a>|
+|<img src="././covid-19/cough.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/icons/covid-19/cough.svg">cough</a>|
+|<img src="././covid-19/delivery.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/icons/covid-19/delivery.svg">delivery</a>|
+|<img src="././covid-19/electronicmedicalrecord.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/icons/covid-19/electronicmedicalrecord.svg">electronicmedicalrecord</a>|
+|<img src="././covid-19/gargling.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/icons/covid-19/gargling.svg">gargling</a>|
+|<img src="././covid-19/handsanitizing.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/icons/covid-19/handsanitizing.svg">handsanitizing</a>|
+|<img src="././covid-19/handwash.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/icons/covid-19/handwash.svg">handwash</a>|
+|<img src="././covid-19/hospital.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/icons/covid-19/hospital.svg">hospital<a>|
+|<img src="././covid-19/mask1.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/icons/covid-19/mask1.svg">mask1</a>|
+|<img src="././covid-19/mask2.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/icons/covid-19/mask2.svg">mask2</a>|
+|<img src="././covid-19/medicine.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/icons/covid-19/medicine.svg">medicine</a>|
+|<img src="././covid-19/nurse.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/icons/covid-19/nurse.svg">nurse</a>|
+|<img src="././covid-19/senior.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/icons/covid-19/senior.svg">senior</a>|
+|<img src="././covid-19/socialdistance.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/icons/covid-19/socialdistance.svg">socialdistance</a>|
+|<img src="././covid-19/stayhome.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/icons/covid-19/stayhome.svg">stayhome</a>|
+|<img src="././covid-19/thermometer.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/icons/covid-19/thermometer.svg">thermometer</a>|
+|<img src="././covid-19/togo.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/icons/covid-19/togo.svg">togo</a>|
+|<img src="././covid-19/travel-restrictions.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/icons/images/covid-19/travel-restrictions.svg">travel-restrictions</a>|
+|<img src="././covid-19/virus1.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/icons/covid-19/virus1.svg">virus1</a>|
+|<img src="././covid-19/virus2.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/icons/covid-19/virus2.svg">virus2</a>|
+|<img src="././covid-19/watersupply.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/icons/covid-19/watersupply.svg">watersupply</a>|
   
 ### Utility
 
