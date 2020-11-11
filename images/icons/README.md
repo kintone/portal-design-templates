@@ -72,18 +72,18 @@ Click the SVG embedded icon name and your browser will open the SVG code, and th
 
 |icon|code|
 |---|---|
-|<img src="././business/adressbook.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/icons/business/adressbook.svg">adressbook</a>|
-|<img src="././business/file.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/icons/business/file.svg">file</a>|
-|<img src="././business/folder.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/icons/business/folder.svg">folder</a>|
-|<img src="././business/graph1.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/icons/business/graph1.svg">graph1</a>|
-|<img src="././business/graph2.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/icons/business/graph2.svg">graph2</a>|
-|<img src="././business/image.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/icons/business/image.svg">image</a>|
-|<img src="././business/list.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/icons/business/list.svg">list</a>|
-|<img src="././business/money-yen.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/icons/business/money-yen.svg">money-yen</a>|
-|<img src="././business/note.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/icons/business/note.svg">note</a>|
-|<img src="././business/project.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/icons/business/project.svg">project</a>|
-|<img src="././business/questionnaire.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/icons/business/questionnaire.svg">questionnaire</a>|
-|<img src="././business/timecard.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/icons/business/timecard.svg">timecard</a>|
+|<img src="././business/adressbook.svg" width="50px">|<a href="https://github.com/kintone/portal-design-templates/blob/master/images/icons/business/adressbook.svg?short_path=3cbeef2">adressbook</a>|
+|<img src="././business/file.svg" width="50px">|<a href="https://github.com/kintone/portal-design-templates/blob/master/images/icons/business/file.svg?short_path=f829f86">file</a>|
+|<img src="././business/folder.svg" width="50px">|<a href="https://github.com/kintone/portal-design-templates/blob/master/images/icons/business/folder.svg?short_path=51f7dba">folder</a>|
+|<img src="././business/graph1.svg" width="50px">|<a href="https://github.com/kintone/portal-design-templates/blob/master/images/icons/business/graph1.svg?short_path=b02ddd4">graph1</a>|
+|<img src="././business/graph2.svg" width="50px">|<a href="https://github.com/kintone/portal-design-templates/blob/master/images/icons/business/graph2.svg?short_path=43d4ee2">graph2</a>|
+|<img src="././business/image.svg" width="50px">|<a href="https://github.com/kintone/portal-design-templates/blob/master/images/icons/business/image.svg?short_path=770c03f">image</a>|
+|<img src="././business/list.svg" width="50px">|<a href="https://github.com/kintone/portal-design-templates/blob/master/images/icons/business/list.svg?short_path=0736d25">list</a>|
+|<img src="././business/money-yen.svg" width="50px">|<a href="https://github.com/kintone/portal-design-templates/blob/master/images/icons/business/money-yen.svg?short_path=3ca90dc">money-yen</a>|
+|<img src="././business/note.svg" width="50px">|<a href="https://github.com/kintone/portal-design-templates/blob/master/images/icons/business/note.svg?short_path=d5778d2">note</a>|
+|<img src="././business/project.svg" width="50px">|<a href="https://github.com/kintone/portal-design-templates/blob/master/images/icons/business/project.svg?short_path=4638509">project</a>|
+|<img src="././business/questionnaire.svg" width="50px">|<a href="https://github.com/kintone/portal-design-templates/blob/master/images/icons/business/questionnaire.svg?short_path=c4118d8">questionnaire</a>|
+|<img src="././business/timecard.svg" width="50px">|<a href="https://github.com/kintone/portal-design-templates/blob/master/images/icons/business/timecard.svg?short_path=93cc548">timecard</a>|
 
 
 ### Persons
