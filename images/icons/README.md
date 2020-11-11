@@ -17,11 +17,11 @@ Click the SVG embedded icon name and your browser will open the SVG code, and th
 |<img src="././covid-19/clean.svg" width="50px">|<a href="https://github.com/kintone/portal-design-templates/blob/master/images/icons/covid-19/clean.svg?short_path=1b00723">clean</a>|
 |<img src="././covid-19/cough.svg" width="50px">|<a href="https://github.com/kintone/portal-design-templates/blob/master/images/icons/covid-19/cough.svg?short_path=0f3913c">cough</a>|
 |<img src="././covid-19/delivery.svg" width="50px">|<a href="https://github.com/kintone/portal-design-templates/blob/master/images/icons/covid-19/delivery.svg?short_path=1c63c95">delivery</a>|
-|<img src="././covid-19/electronicmedicalrecord.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/icons/covid-19/electronicmedicalrecord.svg">electronicmedicalrecord</a>|
-|<img src="././covid-19/gargling.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/icons/covid-19/gargling.svg">gargling</a>|
-|<img src="././covid-19/handsanitizing.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/icons/covid-19/handsanitizing.svg">handsanitizing</a>|
-|<img src="././covid-19/handwash.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/icons/covid-19/handwash.svg">handwash</a>|
-|<img src="././covid-19/hospital.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/icons/covid-19/hospital.svg">hospital<a>|
+|<img src="././covid-19/electronicmedicalrecord.svg" width="50px">|<a href="https://github.com/kintone/portal-design-templates/blob/master/images/icons/covid-19/electronicmedicalrecord.svg?short_path=7a7b98a">electronicmedicalrecord</a>|
+|<img src="././covid-19/gargling.svg" width="50px">|<a href="https://github.com/kintone/portal-design-templates/blob/master/images/icons/covid-19/gargling.svg?short_path=ec45404">gargling</a>|
+|<img src="././covid-19/handsanitizing.svg" width="50px">|<a href="https://github.com/kintone/portal-design-templates/blob/master/images/icons/covid-19/handsanitizing.svg?short_path=750a0d5">handsanitizing</a>|
+|<img src="././covid-19/handwash.svg" width="50px">|<a href="https://github.com/kintone/portal-design-templates/blob/master/images/icons/covid-19/handwash.svg?short_path=cdeab9f">handwash</a>|
+|<img src="././covid-19/hospital.svg" width="50px">|<a href="https://github.com/kintone/portal-design-templates/blob/master/images/icons/covid-19/hospital.svg?short_path=531e552">hospital<a>|
 |<img src="././covid-19/mask1.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/icons/covid-19/mask1.svg">mask1</a>|
 |<img src="././covid-19/mask2.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/icons/covid-19/mask2.svg">mask2</a>|
 |<img src="././covid-19/medicine.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/icons/covid-19/medicine.svg">medicine</a>|
