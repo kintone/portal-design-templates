@@ -55,11 +55,11 @@ Click the SVG embedded icon name and your browser will open the SVG code, and th
 |<img src="././utility/id.svg" width="50px">|<a href="https://github.com/kintone/portal-design-templates/blob/master/images/icons/utility/id.svg?short_path=cf182a4">id</a>|
 |<img src="././utility/idea.svg" width="50px">|<a href="https://github.com/kintone/portal-design-templates/blob/master/images/icons/utility/idea.svg?short_path=cb2fcb1">idea</a>|
 |<img src="././utility/information.svg" width="50px">|<a href="https://github.com/kintone/portal-design-templates/blob/master/images/icons/utility/information.svg?short_path=0cb3f12">information</a>|
-|<img src="././utility/key.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/icons/utility/key.svg">key</a>|
-|<img src="././utility/label.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/icons/utility/label.svg">label</a>|
-|<img src="././utility/megaphone.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/icons/utility/megaphone.svg">megaphone</a>|
-|<img src="././utility/mobile.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/icons/utility/mobile.svg">mobile</a>|
-|<img src="././utility/pen.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/icons/utility/pen.svg">pen</a>|
+|<img src="././utility/key.svg" width="50px">|<a href="https://github.com/kintone/portal-design-templates/blob/master/images/icons/utility/key.svg?short_path=45186e6">key</a>|
+|<img src="././utility/label.svg" width="50px">|<a href="https://github.com/kintone/portal-design-templates/blob/master/images/icons/utility/label.svg?short_path=2d01d8b">label</a>|
+|<img src="././utility/megaphone.svg" width="50px">|<a href="https://github.com/kintone/portal-design-templates/blob/master/images/icons/utility/megaphone.svg?short_path=5dca1d0">megaphone</a>|
+|<img src="././utility/mobile.svg" width="50px">|<a href="https://github.com/kintone/portal-design-templates/blob/master/images/icons/utility/mobile.svg?short_path=8b4653e">mobile</a>|
+|<img src="././utility/pen.svg" width="50px">|<a href="https://github.com/kintone/portal-design-templates/blob/master/images/icons/utility/pen.svg?short_path=e142e07">pen</a>|
 |<img src="././utility/phone.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/icons/utility/phone.svg">phone</a>|
 |<img src="././utility/pin.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/icons/utility/pin.svg">pin</a>|
 |<img src="././utility/printer.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/icons/utility/printer.svg">printer</a>|
