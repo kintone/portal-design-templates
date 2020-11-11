@@ -60,13 +60,13 @@ Click the SVG embedded icon name and your browser will open the SVG code, and th
 |<img src="././utility/megaphone.svg" width="50px">|<a href="https://github.com/kintone/portal-design-templates/blob/master/images/icons/utility/megaphone.svg?short_path=5dca1d0">megaphone</a>|
 |<img src="././utility/mobile.svg" width="50px">|<a href="https://github.com/kintone/portal-design-templates/blob/master/images/icons/utility/mobile.svg?short_path=8b4653e">mobile</a>|
 |<img src="././utility/pen.svg" width="50px">|<a href="https://github.com/kintone/portal-design-templates/blob/master/images/icons/utility/pen.svg?short_path=e142e07">pen</a>|
-|<img src="././utility/phone.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/icons/utility/phone.svg">phone</a>|
-|<img src="././utility/pin.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/icons/utility/pin.svg">pin</a>|
-|<img src="././utility/printer.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/icons/utility/printer.svg">printer</a>|
-|<img src="././utility/rocket.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/icons/utility/rocket.svg">rocket</a>|
-|<img src="././utility/search.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/icons/utility/search.svg">search</a>|
-|<img src="././utility/shop.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/icons/utility/shop.svg">shop</a>|
-|<img src="././utility/stamp.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/icons/utility/stamp.svg">stamp</a>|
+|<img src="././utility/phone.svg" width="50px">|<a href="https://github.com/kintone/portal-design-templates/blob/master/images/icons/utility/phone.svg?short_path=4e8cd9c">phone</a>|
+|<img src="././utility/pin.svg" width="50px">|<a href="https://github.com/kintone/portal-design-templates/blob/master/images/icons/utility/pin.svg?short_path=edbb983">pin</a>|
+|<img src="././utility/printer.svg" width="50px">|<a href="https://github.com/kintone/portal-design-templates/blob/master/images/icons/utility/printer.svg?short_path=30d100b">printer</a>|
+|<img src="././utility/rocket.svg" width="50px">|<a href="https://github.com/kintone/portal-design-templates/blob/master/images/icons/utility/rocket.svg?short_path=0d1b550">rocket</a>|
+|<img src="././utility/search.svg" width="50px">|<a href="https://github.com/kintone/portal-design-templates/blob/master/images/icons/utility/search.svg?short_path=d47646f">search</a>|
+|<img src="././utility/shop.svg" width="50px">|<a href="https://github.com/kintone/portal-design-templates/blob/master/images/icons/utility/shop.svg?short_path=24ef887">shop</a>|
+|<img src="././utility/stamp.svg" width="50px">|<a href="https://github.com/kintone/portal-design-templates/blob/master/images/icons/utility/stamp.svg?short_path=66f0ec3">stamp</a>|
 
 ### Business
 
