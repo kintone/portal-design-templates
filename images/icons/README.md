@@ -50,11 +50,11 @@ Click the SVG embedded icon name and your browser will open the SVG code, and th
 |<img src="././utility/education.svg" width="50px">|<a href="https://github.com/kintone/portal-design-templates/blob/master/images/icons/utility/education.svg?short_path=a5e4b1a">education</a>|
 |<img src="././utility/eye.svg" width="50px">|<a href="https://github.com/kintone/portal-design-templates/blob/master/images/icons/utility/eye.svg?short_path=a9f2347">eye</a>|
 |<img src="././utility/fixture.svg" width="50px">|<a href="https://github.com/kintone/portal-design-templates/blob/master/images/icons/utility/fixture.svg?short_path=4700d46">fixture</a>|
-|<img src="././utility/gift.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/icons/utility/gift.svg">gift</a>|
-|<img src="././utility/help.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/icons/utility/help.svg">help</a>|
-|<img src="././utility/id.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/icons/utility/id.svg">id</a>|
-|<img src="././utility/idea.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/icons/utility/idea.svg">idea</a>|
-|<img src="././utility/information.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/icons/utility/information.svg">information</a>|
+|<img src="././utility/gift.svg" width="50px">|<a href="https://github.com/kintone/portal-design-templates/blob/master/images/icons/utility/gift.svg?short_path=ff91a12">gift</a>|
+|<img src="././utility/help.svg" width="50px">|<a href="https://github.com/kintone/portal-design-templates/blob/master/images/icons/utility/help.svg?short_path=6b4caa4">help</a>|
+|<img src="././utility/id.svg" width="50px">|<a href="https://github.com/kintone/portal-design-templates/blob/master/images/icons/utility/id.svg?short_path=cf182a4">id</a>|
+|<img src="././utility/idea.svg" width="50px">|<a href="https://github.com/kintone/portal-design-templates/blob/master/images/icons/utility/idea.svg?short_path=cb2fcb1">idea</a>|
+|<img src="././utility/information.svg" width="50px">|<a href="https://github.com/kintone/portal-design-templates/blob/master/images/icons/utility/information.svg?short_path=0cb3f12">information</a>|
 |<img src="././utility/key.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/icons/utility/key.svg">key</a>|
 |<img src="././utility/label.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/icons/utility/label.svg">label</a>|
 |<img src="././utility/megaphone.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/icons/utility/megaphone.svg">megaphone</a>|
