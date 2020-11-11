@@ -32,9 +32,9 @@ Click the SVG embedded icon name and your browser will open the SVG code, and th
 |<img src="././covid-19/thermometer.svg" width="50px">|<a href="https://github.com/kintone/portal-design-templates/blob/master/images/icons/covid-19/thermometer.svg?short_path=42afcd2">thermometer</a>|
 |<img src="././covid-19/togo.svg" width="50px">|<a href="https://github.com/kintone/portal-design-templates/blob/master/images/icons/covid-19/togo.svg?short_path=a139624">togo</a>|
 |<img src="././covid-19/travel-restrictions.svg" width="50px">|<a href="https://github.com/kintone/portal-design-templates/blob/master/images/icons/covid-19/travel-restrictions.svg?short_path=7ad9aca">travel-restrictions</a>|
-|<img src="././covid-19/virus1.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/icons/covid-19/virus1.svg">virus1</a>|
-|<img src="././covid-19/virus2.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/icons/covid-19/virus2.svg">virus2</a>|
-|<img src="././covid-19/watersupply.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/icons/covid-19/watersupply.svg">watersupply</a>|
+|<img src="././covid-19/virus1.svg" width="50px">|<a href="https://github.com/kintone/portal-design-templates/blob/master/images/icons/covid-19/virus1.svg?short_path=697b38b">virus1</a>|
+|<img src="././covid-19/virus2.svg" width="50px">|<a href="https://github.com/kintone/portal-design-templates/blob/master/images/icons/covid-19/virus2.svg?short_path=5182218">virus2</a>|
+|<img src="././covid-19/watersupply.svg" width="50px">|<a href="https://github.com/kintone/portal-design-templates/blob/master/images/icons/covid-19/watersupply.svg?short_path=bf9c11a">watersupply</a>|
   
 ### Utility
 
