@@ -11,7 +11,7 @@ Click the SVG embedded icon name and your browser will open the SVG code, and th
 
 |icon|name|
 |---|---|
-|<img src="././covid-19/alcoholspray.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/icons/covid-19/alcoholspray.svg">alcoholspray</a>|
+|<img src="././covid-19/alcoholspray.svg" width="50px">|<a href="https://github.com/kintone/portal-design-templates/blob/master/images/icons/covid-19/alcoholspray.svg?short_path=74e3ec8">alcoholspray</a>|
 |<img src="././covid-19/ambulance.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/icons/covid-19/ambulance.svg">ambulance</a>|
 |<img src="././covid-19/bed.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/icons/covid-19/bed.svg">bed</a>|
 |<img src="././covid-19/clean.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/icons/covid-19/clean.svg">clean</a>|
