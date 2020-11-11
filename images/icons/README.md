@@ -27,11 +27,11 @@ Click the SVG embedded icon name and your browser will open the SVG code, and th
 |<img src="././covid-19/medicine.svg" width="50px">|<a href="https://github.com/kintone/portal-design-templates/blob/master/images/icons/covid-19/medicine.svg?short_path=17c358b">medicine</a>|
 |<img src="././covid-19/nurse.svg" width="50px">|<a href="https://github.com/kintone/portal-design-templates/blob/master/images/icons/covid-19/nurse.svg?short_path=e6166d1">nurse</a>|
 |<img src="././covid-19/senior.svg" width="50px">|<a href="https://github.com/kintone/portal-design-templates/blob/master/images/icons/covid-19/senior.svg?short_path=7cbc6ea">senior</a>|
-|<img src="././covid-19/socialdistance.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/icons/covid-19/socialdistance.svg">socialdistance</a>|
-|<img src="././covid-19/stayhome.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/icons/covid-19/stayhome.svg">stayhome</a>|
-|<img src="././covid-19/thermometer.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/icons/covid-19/thermometer.svg">thermometer</a>|
-|<img src="././covid-19/togo.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/icons/covid-19/togo.svg">togo</a>|
-|<img src="././covid-19/travel-restrictions.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/icons/covid-19/travel-restrictions.svg">travel-restrictions</a>|
+|<img src="././covid-19/socialdistance.svg" width="50px">|<a href="https://github.com/kintone/portal-design-templates/blob/master/images/icons/covid-19/socialdistance.svg?short_path=0728850">socialdistance</a>|
+|<img src="././covid-19/stayhome.svg" width="50px">|<a href="https://github.com/kintone/portal-design-templates/blob/master/images/icons/covid-19/stayhome.svg?short_path=1fe1429">stayhome</a>|
+|<img src="././covid-19/thermometer.svg" width="50px">|<a href="https://github.com/kintone/portal-design-templates/blob/master/images/icons/covid-19/thermometer.svg?short_path=42afcd2">thermometer</a>|
+|<img src="././covid-19/togo.svg" width="50px">|<a href="https://github.com/kintone/portal-design-templates/blob/master/images/icons/covid-19/togo.svg?short_path=a139624">togo</a>|
+|<img src="././covid-19/travel-restrictions.svg" width="50px">|<a href="https://github.com/kintone/portal-design-templates/blob/master/images/icons/covid-19/travel-restrictions.svg?short_path=7ad9aca">travel-restrictions</a>|
 |<img src="././covid-19/virus1.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/icons/covid-19/virus1.svg">virus1</a>|
 |<img src="././covid-19/virus2.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/icons/covid-19/virus2.svg">virus2</a>|
 |<img src="././covid-19/watersupply.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/icons/covid-19/watersupply.svg">watersupply</a>|
