@@ -90,24 +90,24 @@ Click the SVG embedded icon name and your browser will open the SVG code, and th
 
 |icon|code|
 |---|---|
-|<img src="././persons/contact.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/icons/persons/contact.svg">contact</a>|
-|<img src="././persons/interview.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/icons/persons/interview.svg">interview</a>|
-|<img src="././persons/members.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/icons/persons/members.svg">members</a>|
-|<img src="././persons/sales.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/icons/persons/sales.svg">sales</a>|
+|<img src="././persons/contact.svg" width="50px">|<a href="https://github.com/kintone/portal-design-templates/blob/master/images/icons/persons/contact.svg?short_path=601ed6f">contact</a>|
+|<img src="././persons/interview.svg" width="50px">|<a href="https://github.com/kintone/portal-design-templates/blob/master/images/icons/persons/interview.svg?short_path=e68aca4">interview</a>|
+|<img src="././persons/members.svg" width="50px">|<a href="https://github.com/kintone/portal-design-templates/blob/master/images/icons/persons/members.svg?short_path=f03e104">members</a>|
+|<img src="././persons/sales.svg" width="50px">|<a href="https://github.com/kintone/portal-design-templates/blob/master/images/icons/persons/sales.svg?short_path=5af5add">sales</a>|
 
 ### Transportation
 
 |icon|code|
 |---|---|
-|<img src="././transportation/airplane.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/icons/transportation/airplane.svg">airplane</a>|
-|<img src="././transportation/car.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/icons/transportation/car.svg">car</a>|
-|<img src="././transportation/taxi.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/icons/transportation/taxi.svg">taxi</a>|
-|<img src="././transportation/train.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/icons/transportation/train.svg">train</a>|
+|<img src="././transportation/airplane.svg" width="50px">|<a href="https://github.com/kintone/portal-design-templates/blob/master/images/icons/transportation/airplane.svg?short_path=e5d8e23">airplane</a>|
+|<img src="././transportation/car.svg" width="50px">|<a href="https://github.com/kintone/portal-design-templates/blob/master/images/icons/transportation/car.svg?short_path=ea78812">car</a>|
+|<img src="././transportation/taxi.svg" width="50px">|<a href="https://github.com/kintone/portal-design-templates/blob/master/images/icons/transportation/taxi.svg?short_path=570ae6b">taxi</a>|
+|<img src="././transportation/train.svg" width="50px">|<a href="https://github.com/kintone/portal-design-templates/blob/master/images/icons/transportation/train.svg?short_path=3dc8e7a">train</a>|
 
 ### Animals
 
 |icon|code|
 |---|---|
-|<img src="./animals/cat-black.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/icons/animals/cat-black.svg">cat-black</a>|
-|<img src="./animals/cat-white.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/icons/animals/cat-white.svg">cat-white</a>|
-|<img src="./animals/dog.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/icons/animals/dog.svg">dog</a>|
+|<img src="./animals/cat-black.svg" width="50px">|<a href="https://github.com/kintone/portal-design-templates/blob/master/images/icons/animals/cat-black.svg?short_path=21861af">cat-black</a>|
+|<img src="./animals/cat-white.svg" width="50px">|<a href="https://github.com/kintone/portal-design-templates/blob/master/images/icons/animals/cat-white.svg?short_path=6bdca7f">cat-white</a>|
+|<img src="./animals/dog.svg" width="50px">|<a href="https://github.com/kintone/portal-design-templates/blob/master/images/icons/animals/dog.svg?short_path=8569c25">dog</a>|
