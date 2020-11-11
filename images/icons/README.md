@@ -40,11 +40,11 @@ Click the SVG embedded icon name and your browser will open the SVG code, and th
 
 |Icon|SVG code|
 |---|---|
-|<img src="././utility/bell.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/icons/utility/bell.svg">bell</a>|
-|<img src="././utility/calculator.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/icons/utility/calculator.svg">calculator</a>|
-|<img src="././utility/calendar.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/icons/utility/calendar.svg">calendar</a>|
-|<img src="././utility/cart.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/icons/utility/cart.svg">cart</a>|
-|<img src="././utility/conversation.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/icons/utility/conversation.svg">conversation</a>|
+|<img src="././utility/bell.svg" width="50px">|<a href="https://github.com/kintone/portal-design-templates/blob/master/images/icons/utility/bell.svg?short_path=4b0368f">bell</a>|
+|<img src="././utility/calculator.svg" width="50px">|<a href="https://github.com/kintone/portal-design-templates/blob/master/images/icons/utility/calculator.svg?short_path=270e932">calculator</a>|
+|<img src="././utility/calendar.svg" width="50px">|<a href="https://github.com/kintone/portal-design-templates/blob/master/images/icons/utility/calendar.svg?short_path=fe58041">calendar</a>|
+|<img src="././utility/cart.svg" width="50px">|<a href="https://github.com/kintone/portal-design-templates/blob/master/images/icons/utility/cart.svg?short_path=0b59d01">cart</a>|
+|<img src="././utility/conversation.svg" width="50px">|<a href="https://github.com/kintone/portal-design-templates/blob/master/images/icons/utility/conversation.svg?short_path=0c24a24">conversation</a>|
 |<img src="././utility/cup.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/icons/utility/cup.svg">cup</a>|
 |<img src="././utility/eat.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/icons/utility/eat.svg">eat</a>|
 |<img src="././utility/education.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/icons/utility/education.svg">education</a>|
