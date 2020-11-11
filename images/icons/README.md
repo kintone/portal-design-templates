@@ -45,11 +45,11 @@ Click the SVG embedded icon name and your browser will open the SVG code, and th
 |<img src="././utility/calendar.svg" width="50px">|<a href="https://github.com/kintone/portal-design-templates/blob/master/images/icons/utility/calendar.svg?short_path=fe58041">calendar</a>|
 |<img src="././utility/cart.svg" width="50px">|<a href="https://github.com/kintone/portal-design-templates/blob/master/images/icons/utility/cart.svg?short_path=0b59d01">cart</a>|
 |<img src="././utility/conversation.svg" width="50px">|<a href="https://github.com/kintone/portal-design-templates/blob/master/images/icons/utility/conversation.svg?short_path=0c24a24">conversation</a>|
-|<img src="././utility/cup.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/icons/utility/cup.svg">cup</a>|
-|<img src="././utility/eat.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/icons/utility/eat.svg">eat</a>|
-|<img src="././utility/education.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/icons/utility/education.svg">education</a>|
-|<img src="././utility/eye.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/icons/utility/eye.svg">eye</a>|
-|<img src="././utility/fixture.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/icons/utility/fixture.svg">fixture</a>|
+|<img src="././utility/cup.svg" width="50px">|<a href="https://github.com/kintone/portal-design-templates/blob/master/images/icons/utility/cup.svg?short_path=7e2b070">cup</a>|
+|<img src="././utility/eat.svg" width="50px">|<a href="https://github.com/kintone/portal-design-templates/blob/master/images/icons/utility/eat.svg?short_path=3c1dda3">eat</a>|
+|<img src="././utility/education.svg" width="50px">|<a href="https://github.com/kintone/portal-design-templates/blob/master/images/icons/utility/education.svg?short_path=a5e4b1a">education</a>|
+|<img src="././utility/eye.svg" width="50px">|<a href="https://github.com/kintone/portal-design-templates/blob/master/images/icons/utility/eye.svg?short_path=a9f2347">eye</a>|
+|<img src="././utility/fixture.svg" width="50px">|<a href="https://github.com/kintone/portal-design-templates/blob/master/images/icons/utility/fixture.svg?short_path=4700d46">fixture</a>|
 |<img src="././utility/gift.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/icons/utility/gift.svg">gift</a>|
 |<img src="././utility/help.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/icons/utility/help.svg">help</a>|
 |<img src="././utility/id.svg" width="50px">|<a href="https://raw.githubusercontent.com/kintone/portal-design-templates/master/images/icons/utility/id.svg">id</a>|
